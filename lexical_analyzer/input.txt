@@ -1,0 +1,2 @@
+hello! here is a lexical analyzer to be checked
+123 * @^^#& 5465312
